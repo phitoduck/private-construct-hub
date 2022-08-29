@@ -10,6 +10,11 @@
     "@jridgewell/gen-mapping" "^0.1.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
+"@aws-cdk/aws-servicecatalogappregistry-alpha@^2.39.0-alpha.0":
+  version "2.39.0-alpha.0"
+  resolved "https://registry.yarnpkg.com/@aws-cdk/aws-servicecatalogappregistry-alpha/-/aws-servicecatalogappregistry-alpha-2.39.0-alpha.0.tgz#09f191044077b08129485f17fcd15a85430c663c"
+  integrity sha512-6Vb3drHfFHAFfT5LqQfgtdlDSo8HWndyfe9zrggvpHzJ6JlZUb9beLh1Fw2sDMygLRhiuND5VlWjBEaHRd5hUw==
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.12.13", "@babel/code-frame@^7.18.6":
   version "7.18.6"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.18.6.tgz#3b25d38c89600baa2dcc219edfa88a74eb2c427a"
@@ -1474,6 +1479,11 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
+cdk-watchful@^0.6.193:
+  version "0.6.193"
+  resolved "https://registry.yarnpkg.com/cdk-watchful/-/cdk-watchful-0.6.193.tgz#c1aae9aec30935394f7546e3e8620c7ec52ef9e7"
+  integrity sha512-v1QIoUvP5cnyeQXiQILhJgGHJAD1iTaLiG+86XrDU7QZfPABadBgrhQ+LDh+hF5Uo8rgLs4ZIGZc17Enmr3CNg==
+
 chalk@^2.0.0:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.2.tgz#cd42541677a54333cf541a49108c1432b44c9424"
@@ -1634,6 +1644,11 @@ console-control-strings@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/console-control-strings/-/console-control-strings-1.1.0.tgz#3d7cf4464db6446ea644bf4b39507f9851008e8e"
   integrity sha512-ty/fTekppD2fIwRvnZAVdeOiGd1c7YXEixbgJTNzqcxJWKQnjJ/V1bNEEE6hygpM3WjwHFUVK6HTjWSzV4a8sQ==
+
+construct-hub@^0.4.78:
+  version "0.4.78"
+  resolved "https://registry.yarnpkg.com/construct-hub/-/construct-hub-0.4.78.tgz#51f6e1e19ebb67c3ac4f99fd6cb35a1c0064f718"
+  integrity sha512-LZ39gusSpkR/501pf75XhZ7pmzqqVG6cFRNmZgkyVkwswfbKpW4EzqEVJTv+iwhiC2QmsSpCpf4e/phIHeGWsQ==
 
 constructs@^10.0.5:
   version "10.1.88"
